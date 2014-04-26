@@ -1,0 +1,1 @@
+angular.module('sampleApp', ['ngRoute', 'ui.bootstrap', 'routes', 'directives', 'MainController', 'HeroService', 'Recommender']);
